@@ -27,3 +27,8 @@ git add 3435253.txt
 git commit -m "Pierwszy commit numer indeksu 3435253"
 ```
 
+7. Wyświetl log operacji i sprawdź czy jest tam Twoja zmiana
+```
+git log
+```
+
